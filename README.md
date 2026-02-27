@@ -17,6 +17,6 @@ Hey! I'm currently a freshman majoring in Software Engineering at UTD. I special
 #
 
 <!-- uma -->
-<img src="https://media1.tenor.com/m/c586ZR-OCFcAAAAC/agnes-tachyon-umamusume.gif">
+<img src="https://media1.tenor.com/m/Dn12S2BHR0UAAAAd/agnes-tachyon-uma-musume.gif">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&duration=2500&pause=1000&color=A8F765&width=600&lines=Thanks+for+checking+out+my+GitHub!;Drop+a+follow+to+stay+up+to+date+with+my+projects!+" alt="Typing SVG" /></a>
