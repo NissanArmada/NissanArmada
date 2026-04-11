@@ -10,7 +10,7 @@ Hey! I'm currently a freshman majoring in Software Engineering at UTD. I special
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,supabase,tensorflow,aws,sklearn,vscode,androidstudio,notion,figma" />
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,supabase,tensorflow,aws,sklearn,vscode,mongodb,notion,figma" />
   </a>
 </p>
 
