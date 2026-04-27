@@ -1,4 +1,4 @@
-# ⚙️ Ethan Collins
+# 👨🏾‍💻 Ethan Collins
 
 **`Software Engineer/ML Specialist`**
 
