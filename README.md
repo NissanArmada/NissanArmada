@@ -2,7 +2,7 @@
 
 **`Software Engineer/ML Specialist`**
 
-Hey! I'm currently a freshman majoring in Software Engineering at UTD. I specialize in working with Machine Learning models, turning unintelligible data into understandable outputs.
+Hey! I'm currently a rising juinor majoring in Software Engineering at UTD. I specialize in working with Machine Learning models, turning unintelligible data into understandable outputs.
 
 ---
 
